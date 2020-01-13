@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/cachimiro/ecomesr-web-page.svg?branch=master)](https://travis-ci.org/cachimiro/ecomesr-web-page)
+
 # Code Institute
 
 Welcome cachimiro,
